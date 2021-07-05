@@ -9,7 +9,7 @@ I am a third year Computer Engineering Student at Birla Vishvakarma Mahavidyalay
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-chovatiya&label=Profile%20views&color=0e75b6&style=plastic" alt="xditya" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-chovatiya&hide=Jupyter Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact" alt="Parth Chovatiya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-chovatiya&hide=Jupyter Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact&exclude_repo=Covid-19-Bad-Vacancy-info" alt="Parth Chovatiya" /></p>
 
 [![Parth Chovatiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-chovatiya&show_icons=true&theme=tokyonight&count_private=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 

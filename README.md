@@ -11,6 +11,7 @@ positivity.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-chovatiya&label=Profile%20views&color=0e75b6&style=plastic" alt="xditya" /></p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-chovatiya&hide=Jupyter Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact" alt="Parth Chovatiya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-chovatiya&show_icons=true&theme=tokyonight&locale=en" alt="Parth Chovatiya" /></p>

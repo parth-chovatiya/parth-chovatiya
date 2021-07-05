@@ -5,9 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I am a Second year Computer Engineering Student at Birla Vishvakarma Mahavidyalaya Anand. I am an enthusiastic and social person
-who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and
-positivity.
+I am a third year Computer Engineering Student at Birla Vishvakarma Mahavidyalaya Anand. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-chovatiya&label=Profile%20views&color=0e75b6&style=plastic" alt="xditya" /></p>
 

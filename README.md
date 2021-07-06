@@ -4,7 +4,7 @@
 <br />
 <div align="center" width="50">
 
-<img src="https://github.com/its-very-easy/ABSphreak/blob/master/gifs/parth-chovatiya.gif" alt="Welcome!" width="600"/>
+<img src="https://github.com/parth-chovatiya/parth-chovatiya/blob/main/gifs/parth-chovatiya.gif" alt="Welcome!" width="600"/>
   <br />
   <p>I am a third year Computer Engineering Student at Birla Vishvakarma Mahavidyalaya Anand. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</p>
   <br />

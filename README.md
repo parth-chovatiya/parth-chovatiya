@@ -58,8 +58,8 @@
 <a href="https://linkedin.com/in/parth-chovatiya"><img src="https://img.shields.io/badge/-Parth%20Chovatiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:parthchovatiya3@gmail.com"><img src="https://img.shields.io/badge/-parthchovatiya3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/_parth_chovatiya"><img src="https://img.shields.io/badge/-@parth_chovatiya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<!-- <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
-<!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
-<!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
+<!-- <a href="https://facebook.com/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
+<!-- <a href="https://www.pinterest.ca/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
+<!-- <a href="https://www.behance.net/_parth_chovatiya"><img src="https://img.shields.io/badge/-@_parth_chovatiya-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=parth-chovatiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Krishnan Navadia" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=parth-chovatiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Parth Chovatiya" /> </p>

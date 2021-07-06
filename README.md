@@ -11,7 +11,6 @@ I am a third year Computer Engineering Student at Birla Vishvakarma Mahavidyalay
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth-chovatiya&hide=Jupyter Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact&exclude_repo=Covid-19-Bad-Vacancy-info" alt="Parth Chovatiya" /></p>
 
-[![Parth Chovatiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-chovatiya&show_icons=true&theme=tokyonight&count_private=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-chovatiya&show_icons=true&theme=tokyonight&count_private=true&locale=en" /></a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=parth-chovatiya&theme=dark)

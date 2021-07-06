@@ -1,6 +1,6 @@
-<!-- ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
+![Parth Chovatiya Banner](https://github.com/parth-chovatiya/parth-chovatiya/blob/main/gifs/parth-chovatiya.gif)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Parth Chovatiya</h2>
+<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Parth Chovatiya</h2></p>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Parth Chovatiya -->
 
@@ -13,9 +13,9 @@
 ✉️ &nbsp;You can shoot me an email at parthchovatiya3@gmail.com! I'll try to respond as soon as I can.
 
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.parth-chovatiya.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/parth-chovatiya/parth-chovatiya/blob/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -47,7 +47,7 @@
 <p align="center">
 <a href="https://github.com/parth-chovatiya">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parth-chovatiya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parth-chovatiya&layout=compact&langs_count=8&theme=algolia&exclude_repo=Covid-19-Bad-Vacancy-info"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parth-chovatiya&layout=compact&langs_count=8&theme=algolia&hide=css,php"/>
 </a>
 </p>
 

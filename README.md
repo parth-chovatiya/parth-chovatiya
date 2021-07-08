@@ -10,7 +10,8 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at the Birla Vishvakarma Mahavidyalaya Engineering College Anand Gujarat.\
 ✍️ &nbsp;In my free time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at parthchovatiya3@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at parthchovatiya3@gmail.com! I'll try to respond as soon as I can.\
+⚡ &nbsp;Fun fact <b>I'm a noob</b>.
 
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.parth-chovatiya.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->

@@ -1,6 +1,7 @@
 <!-- ![Parth Chovatiya Banner](https://github.com/parth-chovatiya/parth-chovatiya/blob/main/gifs/parth-chovatiya.gif) -->
 
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Parth Chovatiya</h2></p>
+<!-- <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Parth Chovatiya</h2></p> -->
+<h1 align="center">Hi ✌️, I'm Parth Chovatiya</h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Parth Chovatiya -->
 

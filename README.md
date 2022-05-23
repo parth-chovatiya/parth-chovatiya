@@ -17,6 +17,11 @@
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.parth-chovatiya.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
+- 📫 You can reach me on 
+  - **Portfolio - [Parth Chovatiya](https://parth-chovatiya.github.io/)**
+  - **Telegram - [@parth_chovatiya](https://t.me/parth_chovatiya)**
+  - **Linkedin - [parth-chovatiya](https://www.linkedin.com/in/parth-chovatiya/)**
+
 <img alt="Night Coding" src="https://github.com/parth-chovatiya/parth-chovatiya/blob/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
